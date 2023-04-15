@@ -30,6 +30,8 @@ More Information see http://www.x40-community.org/index.php/cura/cura-configurat
 Please note that support is only available for X40 community members. Questions on github will therefore not be answered.
 You can join the X40 community at: http://www.x40-community.org/index.php/members-area
 
+A Cura crash does not necessarily mean that the configuration is defective. Normally, the user is just too dumb to do so because not everything has been taken into account!
+
 ## Supported Cura Version 
 - Ultimaker Cura 4.13
 - Ultimaker Cura 5.0.0
