@@ -23,7 +23,7 @@ Standard configuration for Weedo X40 PRO
 - The configuration contains about 4000 print profiles.
 - There are additional printing profiles for the high-temperature (HT) variant.
 - Supported nozzle size 0,2mm, 0,4mm, 0,6mm and 0,8mm (not for all printing profiles)
-- You may have wondered why the first layer is sometimes different. We found the bug and fixed it. Weebuilder cannot fix the error!
+- You may have wondered why the first layer is sometimes different. We found the bug and fixed it. Weebuilder cannot fix the bug!
 - The Cura plugin for embedding the printer preview image is not part of the configuration!
 
 More Information see http://www.x40-community.org/index.php/cura/cura-configuration
