@@ -15,7 +15,7 @@ Youtube Video see https://www.youtube.com/watch?v=1EdDpZzUEsI
 ## Ready to use
 The X40 Community Cura configuration is much more than just a printer definition. It contains a printer visualization and hundreds of tested print profiles. Simply select a supported filament, make small adjustments such as support structure etc. and just print. There is no need to search for and test the correct print parameters. 
 
-Here you can see the supported filament and the current status: Cura Quality and Intent Profiles
+Here you can see the supported filament and the current status: http://www.x40-community.org/index.php/cura/cura-quality-and-intent-profiles
 
 Standard configuration for Weedo X40 PRO
 - Available for Cura 4.X and 5.X
