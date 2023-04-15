@@ -17,13 +17,13 @@ The X40 Community Cura configuration is much more than just a printer definition
 
 Here you can see the supported filament and the current status: Cura Quality and Intent Profiles
 
-There are two Ultimaker Cura configurations for the Weedo X40 printer:
-
-Standard configuration for Weedo X40 or other Firmware
+Standard configuration for Weedo X40 PRO
 - Available for Cura 4.X and 5.X
-- Full Idex printing support (Single LH, Single RH, dual mode normal, dual mode mirrored, copy mode) up start script Rev. 11
-- The configuration contains about 3000 print profiles.
-- Supported nozzle size 0,4mm and 0,6mm (not for all printing profiles)
+- Full Idex printing support (Single LH, Single RH, dual mode normal, dual mode mirrored, copy mode)
+- The configuration contains about 4000 print profiles.
+- There are additional printing profiles for the high-temperature (HT) variant.
+- Supported nozzle size 0,2mm, 0,4mm, 0,6mm and 0,8mm (not for all printing profiles)
+- You may have wondered why the first layer is sometimes different. We found the bug and fixed it. Weebuilder cannot fix the error!
 - The Cura plugin for embedding the printer preview image is not part of the configuration!
 
 More Information see http://www.x40-community.org/index.php/cura/cura-configuration
