@@ -29,13 +29,11 @@ Please note that support is only available for X40 community members. Questions 
 You can join the X40 community at: http://www.x40-community.org/index.php/members-area
 
 ## Supported Cura Version 
-- Ultimaker Cura 4.8
-- Ultimaker Cura 4.9
-- Ultimaker Cura 4.10
-- Ultimaker Cura 4.11
-- Ultimaker Cura 4.12
 - Ultimaker Cura 4.13
 - Ultimaker Cura 5.0.0
+- Ultimaker Cura 5.1.0
+- Ultimaker Cura 5.2.0
+- Ultimaker Cura 5.3.0
 
 The Configuration doesn't work together with Weedo Cura! 
 
