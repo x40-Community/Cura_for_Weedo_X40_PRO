@@ -16,7 +16,7 @@ Project flyer (PDF) https://my.hidrive.com/lnk/M4UNmCwu
 
 More information see http://www.x40-community.org/index.php/firmware/x40-pro-system
 
-Youtube Video see https://www.youtube.com/watch?v=1EdDpZzUEsI
+Youtube Video see https://www.youtube.com/@x40-community
 
 
 
