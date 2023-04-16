@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Igus</brand>
+      <material>I150-PF</material>
+      <color>White</color>
+      <label>White I150-PF</label>
+    </name>
+    <version>1</version>
+    <GUID>5ea221c1-1ffc-4688-a673-1fb41199bc0f</GUID>
+    <color_code>#ffffff</color_code>
+    <description>iglidur I150-PF is characterised by high wear resistance, as the material is enriched with solid lubricants. It can be processed just as easily as standard PLA and PETG filaments. Due to its high wear resistance and good mechanical properties (strength, toughness, layer adhesion), it is an all-rounder material that is suitable for most applications and 3D printers. Furthermore, it is suitable for food contact due to the conformity according to EU 10/2011 and is therefore ideal in applications in the food and packaging industry. As a versatile all-rounder, iglidur I150 is by far the most frequently used igus filament. There are only restrictions in the maximum, permanent application temperature of 65°C and for highly dynamic applications.</description>
+    <adhesion_info>With the igus Bonding agent for tribo-filaments the iglidur I150 can be processed on conventional print bed surfaces (e.g. glass).</adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.30</density>
+    <diameter>1.75</diameter>
+    <weight>750</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">240</setting>
+    <setting key="heated bed temperature">60</setting>
+    <setting key="standby temperature">150</setting>
+    <setting key="print cooling">50.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">30</setting>
+    <setting key="retraction speed">30</setting>
+    <setting key="retraction amount">5</setting>
+  </settings>
+</fdmmaterial>
