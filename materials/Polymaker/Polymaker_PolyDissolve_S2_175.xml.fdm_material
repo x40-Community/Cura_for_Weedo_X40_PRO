@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material">
+    <metadata>
+        <name>
+            <brand>Polymaker</brand>
+            <material>PolyDissolve</material>
+            <color>White</color>
+            <label>PolyDissove S2</label>
+        </name>
+        <version>1</version>  
+        <GUID>c384ed08-d36a-41aa-a4b4-1ac8b6d1203f</GUID>
+        <color_code>#f8f9fb</color_code>
+        <description>Nozzel 230-250°C, Bed Temperature 90-110°C, Speed 30-40mm/s Cooling 100%. PolyDissolve™ is a family of dissolvable support filaments. PolyDissolve™ S2 is a dissolvable support for PC, ABS and ASA based filaments from the Polymaker portfolio. It is specifically engineered to have a perfect interface with these materials while also displaying good solubility.</description>
+        <adhesion_info>Work on most surfaces designed for high temperature materials.</adhesion_info>
+    </metadata>
+    <properties>
+        <diameter>1.75</diameter>
+        <density>1.37</density>
+        <weight>500</weight>
+    </properties>
+    <settings>
+        <setting key="print temperature">240.0</setting>
+        <setting key="heated bed temperature">100.0</setting>
+        <setting key="standby temperature">150.0</setting>
+        <setting key="print cooling">100.0</setting>
+        <setting key="adhesion tendency">0</setting>
+        <setting key="surface energy">100</setting>
+        <setting key="build volume temperature">28</setting>
+        <setting key="retraction speed">28.0</setting>
+        <setting key="retraction amount">4.5</setting>
+    </settings>
+</fdmmaterial>

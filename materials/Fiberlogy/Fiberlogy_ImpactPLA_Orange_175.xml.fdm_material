@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Fiberlogy</brand>
+      <material>Impact PLA</material>
+      <color>Orange</color>
+      <label>Orange Impact PLA</label>
+    </name>
+    <version>1</version>
+    <GUID>3c907cb9-e0ff-4407-98e8-a43caa811a0c</GUID>
+    <color_code>#f47c3e</color_code>
+    <description>Nozzel 220-245°C, Bed 50-70°C, Cooling 75%-100%, Impact PLA offers properties that are similar or better than those of ABS filaments while keeping the ease and security of the printing process typical of traditional PLA. This technical filament ensures increased resistance to cracking and breaking due to its high impact strength and a higher resistance to high temperatures. With these properties, Impact PLA is ideal for creating demanding prints working in extreme conditions while maintaining the highest level of attention to detail.</description>
+    <adhesion_info></adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.22</density>
+    <diameter>1.75</diameter>
+    <weight>850</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">233</setting>
+    <setting key="heated bed temperature">60</setting>
+    <setting key="standby temperature">200</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">30</setting>
+    <setting key="retraction speed">30</setting>
+    <setting key="retraction amount">5</setting>
+    <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+       <setting key="print temperature">220</setting>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
+     <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+       <setting key="print temperature">220</setting>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
+  </settings>
+</fdmmaterial>

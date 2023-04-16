@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Fiberlogy</brand>
+      <material>Easy PLA</material>
+      <color>Navy blue</color>
+      <label>Navy blue Easy PLA</label>
+    </name>
+    <version>1</version>
+    <GUID>8a11360d-4f3c-49d5-9e21-2a206cddaec6</GUID>
+    <color_code>#455095</color_code>
+    <description>Easy PLA is a material that allows you to achieve prints of a very high quality and avoid complications during the printing process. No matter what level of experience in 3D printing you have, printing with Easy PLA is sure to encourage you to pursue even more ambitious and complex projects. All this thanks to the easiness of printing.</description>
+    <adhesion_info></adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.24</density>
+    <diameter>1.75</diameter>
+    <weight>850</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">215</setting>
+    <setting key="heated bed temperature">60</setting>
+    <setting key="standby temperature">200</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">30</setting>
+    <setting key="retraction speed">30</setting>
+    <setting key="retraction amount">5</setting>
+    <machine>
+       <machine_identifier manufacturer="WEEDO" product="Weedo X40"/>
+       <setting key="print temperature">200</setting>
+    </machine>
+     <machine>
+       <machine_identifier manufacturer="WEEDO" product="Weedo X40 PRO"/>
+       <setting key="print temperature">200</setting>
+    </machine>
+  </settings>
+</fdmmaterial>

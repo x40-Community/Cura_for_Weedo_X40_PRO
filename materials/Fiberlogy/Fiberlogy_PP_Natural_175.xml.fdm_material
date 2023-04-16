@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Fiberlogy</brand>
+      <material>PP</material>
+      <color>Natural</color>
+      <label>Natural PP</label>
+    </name>
+    <version>1</version>
+    <GUID>3a01e80d-13bb-46f8-a0af-1990a848e34f</GUID>
+    <color_code>#eee9da</color_code>
+    <description>Polypropylene (PP) is one of the most commonly used polymers in industry. Its high flexibility, incredible durability, low weight and resistance to chemicals have meant that it has found countless applications from medicine, through the automotive industry to the packaging industry. Fiberlogy PP filament has tapped the potential of this incredible material and made it possible to use in 3D printing. The impressive tensile strength makes polypropylene perfect for producing elements that require durability while maintaining flexibility such as lockable containers, handles, etc. It is successfully used in both advanced engineering projects and at home. Polypropylene is recyclable, which is why printouts and printer scrap can be segregated with other garbage and recycled, which perfectly reflects the spirit of the idea of “zero-waste”.</description>
+    <adhesion_info>PP material does not adhere to almost any surface without an adhesive. An adhesive such as Magigoo for PP should therefore always be used.</adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.04</density>
+    <diameter>1.75</diameter>
+    <weight>750</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">250</setting>
+    <setting key="heated bed temperature">80</setting>
+    <setting key="print cooling">0</setting>
+    <setting key="standby temperature">200</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="retraction speed">25</setting>
+    <setting key="retraction amount">5.0</setting>
+    <machine>
+        <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+       <setting key="retraction speed">25</setting>
+       <setting key="retraction amount">5.0</setting>
+    </machine>
+     <machine>
+        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+       <setting key="retraction speed">25</setting>
+       <setting key="retraction amount">5.0</setting>
+    </machine>
+  </settings>
+</fdmmaterial>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Fiberlogy</brand>
+      <material>Mineral PLA</material>
+      <color>Natural</color>
+      <label>Natural Mineral PLA</label>
+    </name>
+    <version>1</version>
+    <GUID>b8af03b3-2071-44eb-b60d-afe06a54ad99</GUID>
+    <color_code>#c1b397</color_code>
+    <description>Nozzel 190-210°C, Bed 50-70°C, Cooling 75%-100%, Details do matter. Especially when you need to print very precise models or sculptures. Then you will find PLA Mineralvery helpful. It is a material that resembles plaster casting. This distinctive feature, combined with the precision of the prints, makes it possible to use it in architectural and artistic studios, detailed prototyping and modelling. No shape poses a challenge for PLA Mineral. Its properties allow for accurate replication of even the tiniest elements.</description>
+    <adhesion_info></adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.40</density>
+    <diameter>1.75</diameter>
+    <weight>850</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">200</setting>
+    <setting key="heated bed temperature">60</setting>
+    <setting key="standby temperature">190</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">30</setting>
+    <setting key="retraction speed">35</setting>
+    <setting key="retraction amount">5</setting>
+    <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+       <setting key="print temperature">190</setting>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
+     <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+       <setting key="print temperature">190</setting>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
+  </settings>
+</fdmmaterial>

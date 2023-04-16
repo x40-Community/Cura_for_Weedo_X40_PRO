@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Fiberlogy</brand>
+      <material>FiberSatin</material>
+      <color>Green</color>
+      <label>Green FiberSatin</label>
+    </name>
+    <version>1</version>
+    <GUID>c5341f61-2224-46b1-9a86-f2aad58e641d</GUID>
+    <color_code>#58bf20</color_code>
+    <description>Fiberlogy FiberSatin makes models look as if they were not a product of a 3D printer. High layer bondability and the slightly glossy, matte finish conceal the drawbacks of additive printing technology, such as the visible boundaries between individual layers. FiberSatin can be an alternative to silk filaments for people who look around for an interesting finish in a rather matte and refined version. In addition to its unique visual properties, FiberSatin is also distinguished by its unique texture. To the touch, it resembles filaments with the addition of carbon fiber, thanks to which it diffuses the light, giving off a subtle shine.</description>
+    <adhesion_info></adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.21</density>
+    <diameter>1.75</diameter>
+    <weight>850</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">215</setting>
+    <setting key="heated bed temperature">50</setting>
+    <setting key="standby temperature">180</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="retraction speed">35</setting>
+    <setting key="retraction amount">5.0</setting>
+    <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+        <setting key="print temperature">210</setting>
+    </machine>
+     <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+        <setting key="print temperature">210</setting>
+    </machine>
+  </settings>
+</fdmmaterial>
