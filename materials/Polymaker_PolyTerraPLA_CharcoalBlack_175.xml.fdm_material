@@ -42,6 +42,7 @@ PolyDissolve™ S1</description>
        <setting key="heated bed temperature">50</setting>
        <setting key="retraction speed">40</setting>
        <setting key="retraction amount">5.5</setting>
+       <cura:setting key="material_flow">96.00</cura:setting>
     </machine>
   </settings>
 </fdmmaterial>

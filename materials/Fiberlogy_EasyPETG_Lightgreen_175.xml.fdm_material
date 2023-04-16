@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Fiberlogy</brand>
+      <material>Easy PETG</material>
+      <color>Light green (translucent)</color>
+      <label>Light green Easy PETG</label>
+    </name>
+    <version>1</version>
+    <GUID>c3833e04-6c96-456d-b9fe-59208c0a7dff</GUID>
+    <color_code>#9fe355</color_code>
+    <description>The Easy PETG filament is an interesting proposition for those looking for a combination of the ease of 3D printing with functional and aesthetic values. PET enriched with the addition of glycol ensures high resistance to mechanical, chemical and atmospheric factors, and its high amorphy combined with a very good flow allows obtaining prints with greater transparency and better layer bonding.</description>
+    <adhesion_info></adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.29</density>
+    <diameter>1.75</diameter>
+    <weight>850</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">235</setting>
+    <setting key="heated bed temperature">90</setting>
+    <setting key="standby temperature">200</setting>
+    <setting key="print cooling">15</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">50</setting>
+    <setting key="retraction speed">35</setting>
+    <setting key="retraction amount">4.0</setting>
+    <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
+     <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+       <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting>
+       <cura:setting key="material_shrinkage_percentage_z">100.5</cura:setting> 
+    </machine>
+  </settings>
+</fdmmaterial>

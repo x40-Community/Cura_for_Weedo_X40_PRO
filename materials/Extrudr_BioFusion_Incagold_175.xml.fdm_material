@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Extrudr</brand>
+      <material>BioFusion</material>
+      <color>Inca gold RAL 4007</color>
+      <label>Inca gold BioFusion</label>
+    </name>
+    <version>1</version>
+    <GUID>8b56c20d-5cdd-4de9-9d0c-f2b7b739a81d</GUID>
+    <color_code>#e4c33b</color_code>
+    <description>Extrudr BioFusion is a new generation of special bio-based materials designed for designers and makers. The filament is very easy to work with, resulting in exceptional results even with little experience. The printed parts have an intense, metallic shine. BioFusion has a temperature resistance of up to 75 ° C.</description>
+    <adhesion_info>BioFusion has poor layer and bed adhesion. It is recommended to print with a raft and to set the heating bed to 80 ° C for the first layer.</adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.25</density>
+    <diameter>1.75</diameter>
+    <weight>800</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">215.0</setting>
+    <setting key="heated bed temperature">40</setting>
+    <setting key="standby temperature">175</setting>
+    <setting key="print cooling">15</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="retraction speed">35</setting>
+    <setting key="retraction amount">5</setting>
+    <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+       <setting key="heated bed temperature">70</setting>
+       <setting key="retraction speed">35</setting>
+       <setting key="retraction amount">6.5</setting>
+    </machine>
+     <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+       <setting key="heated bed temperature">70</setting>
+       <setting key="retraction speed">35</setting>
+       <setting key="retraction amount">6.5</setting>
+       <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting> 
+    </machine>
+  </settings>
+</fdmmaterial>

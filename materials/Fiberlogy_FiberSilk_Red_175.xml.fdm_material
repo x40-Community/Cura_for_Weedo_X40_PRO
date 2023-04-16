@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Fiberlogy</brand>
+      <material>FiberSilk Metallic</material>
+      <color>Red</color>
+      <label>Red FiberSilk Metallic</label>
+    </name>
+    <version>1</version>
+    <GUID>5a52d2d4-def7-43a1-8d9d-f75e2494a89e</GUID>
+    <color_code>#fc0a1c</color_code>
+    <description>The FIBERSILK METALLIC filament is the result of the joined and lasting effort of the Fiberlogy team. Their goal was to create a high-quality product combining a unique look, high durability and ease of printing. Fiberlogy’s FIBERSILK METALLIC offers a unique elegance of the printouts created with it. They are characterized by a silky metallic shine that brings out every smallest detail of a 3D model with all its bends and curves. Its aesthetic value is further enhanced by a rich palette of available colours. Fiberlogy have come up with a wide selection of vibrant colours for every user to find something that suits them just fine. The metallic finish makes it easy to hide the boundaries between layers making the entire print more uniform and expressive.</description>
+    <adhesion_info></adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.22</density>
+    <diameter>1.75</diameter>
+    <weight>850</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">220</setting>
+    <setting key="heated bed temperature">60</setting>
+    <setting key="standby temperature">200</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="retraction speed">25</setting>
+    <setting key="retraction amount">5.0</setting>
+    <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+        <setting key="print temperature">215</setting>
+       <setting key="retraction speed">30</setting>
+       <setting key="retraction amount">6</setting>
+    </machine>
+     <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+        <setting key="print temperature">215</setting>
+       <setting key="retraction speed">30</setting>
+       <setting key="retraction amount">6</setting>
+       <cura:setting key="material_flow">95.44</cura:setting>
+       <cura:setting key="material_shrinkage_percentage_xy">100.6</cura:setting>
+       <cura:setting key="material_shrinkage_percentage_z">100.6</cura:setting> 
+    </machine>
+  </settings>
+</fdmmaterial>

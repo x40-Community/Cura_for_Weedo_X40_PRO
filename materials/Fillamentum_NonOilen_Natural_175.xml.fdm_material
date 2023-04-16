@@ -38,7 +38,9 @@
        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
        <setting key="print temperature">180.0</setting>
        <setting key="retraction speed">40</setting>
-       <setting key="retraction amount">5.5</setting>
+       <setting key="retraction amount">5.5</setting>       
+       <cura:setting key="material_shrinkage_percentage_xy">100.46</cura:setting>
+       <cura:setting key="material_shrinkage_percentage_z">100.46</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

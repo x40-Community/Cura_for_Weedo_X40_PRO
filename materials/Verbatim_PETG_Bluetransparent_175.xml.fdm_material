@@ -23,7 +23,7 @@ Odour neutral, Main applications: concept modelling for mechanics, medical, food
         <setting key="print temperature">235.0</setting>
         <setting key="heated bed temperature">90.0</setting>
         <setting key="standby temperature">150.0</setting>
-        <setting key="print cooling">10.0</setting>
+        <setting key="print cooling">20.0</setting>
         <setting key="adhesion tendency">0</setting>
         <setting key="surface energy">100</setting>
         <setting key="build volume temperature">28</setting>
@@ -42,6 +42,8 @@ Odour neutral, Main applications: concept modelling for mechanics, medical, food
            <setting key="heated bed temperature">80.0</setting>
            <setting key="retraction speed">30</setting>
            <setting key="retraction amount">5</setting>
+           <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting>
+           <cura:setting key="material_shrinkage_percentage_z">100.0</cura:setting> 
        </machine>
   </settings>
 </fdmmaterial>

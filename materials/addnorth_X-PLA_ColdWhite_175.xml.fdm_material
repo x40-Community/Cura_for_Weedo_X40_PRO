@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>add north</brand>
+      <material>X-PLA</material>
+      <color>Cold White</color>
+      <label>Cold White X-PLA</label>
+    </name>
+    <version>1</version>
+    <GUID>9c2e9a7a-a460-4667-875b-99e231cd80e9</GUID>
+    <color_code>#ffffff</color_code>
+    <description>Add:North X-PLA is a unique PLA-mix developed by Add north. It’s produced using 100% biodegradable material and has a high impact resistance, zero brittleness and an unbeatable surface finish. X-PLA was first developed to meet the high requirements from architects, who often print thin walls but at the same time want a resistive and even surface finish. X-PLA is just as easy to print with as regular PLA and has a solid and robust feeling which is perfect for technical applications but also prototypes and figures. X-PLA can be printed at low temperatures (from 180 °C) and will get a beautiful matte finish that is not possible using regular PLA.</description>
+    <adhesion_info></adhesion_info>
+  </metadata>
+  <properties>
+    <density>1.25</density>
+    <diameter>1.75</diameter>
+    <weight>750</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">200</setting>
+    <setting key="heated bed temperature">70</setting>
+    <setting key="print cooling">100</setting>
+    <setting key="standby temperature">160</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="retraction speed">30</setting>
+    <setting key="retraction amount">5</setting>
+    <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+       <setting key="print temperature">205.0</setting>
+    </machine>
+       <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+       <setting key="print temperature">205.0</setting>
+       <cura:setting key="material_flow">99.00</cura:setting> 
+    </machine>
+  </settings>
+</fdmmaterial>

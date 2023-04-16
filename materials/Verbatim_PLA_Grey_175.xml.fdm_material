@@ -13,6 +13,7 @@
     <description>High performance Polylactic Acid (PLA) for material extrusion. Biopolymer derived from plants. Good post-printing workability. Main applications: Concept modelling for food packaging, transport containers, medical/hygienic products, housings.  Education. 
 </description>
     <adhesion_info></adhesion_info>
+    <instruction_link>http://www.x40-community.org/index.php/15-howto/57-how-to-print-with-verbatim-pla</instruction_link>
   </metadata>
   <properties>
     <diameter>1.75</diameter>
