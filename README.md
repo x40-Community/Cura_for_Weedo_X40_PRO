@@ -5,7 +5,7 @@
 X40 PRO is an improvement for the Weedo X40V1 and Weedo X40V2 printer. It eliminates the printer weaknesses from the cooling system, bugs in the firmware, extends the functionality of the firmware and adapts the printer to the Ultimaker Cura in order to be able to use the printer fully.
 
 The X40 PRO system consists of:
-- [X40 PRO Coolingsystem] (https://github.com/x40-Community/X40_PRO-Community_Coolingsystem)
+- [X40 PRO Coolingsystem](https://github.com/x40-Community/X40_PRO-Community_Coolingsystem)
 - X40 PRO High Temperature upgrade (optional)
 - X40 PRO Extruder upgrade (optional)
 - X40 PRO Firmware
