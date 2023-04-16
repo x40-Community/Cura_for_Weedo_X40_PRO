@@ -57,7 +57,7 @@ The Configuration doesn't work together with Weedo Cura!
 
 
 ## Information
-Starting with the version for Cura 5.3, the configuration can be used with all Weedo X40 and Weedo X40 PRO Firmware variants. In the older versions, the configuration is matched to the X40 PRO firmware.
+Starting with the version for Cura 5.3, the configuration can be used with the Weedo X40 Stock Firmware 1.2.5 and all Weedo X40 PRO Firmware variants. In the older versions, the configuration is matched to the X40 PRO firmware. The bugs in the stock firmware are only fixed by the X40 PRO firmware.
 
 The Weedo X40 PRO Cura plugin only works with the latest X40 PRO firmware. **The plugin is not part of the configuration and is only available to X40 community members.**
 
