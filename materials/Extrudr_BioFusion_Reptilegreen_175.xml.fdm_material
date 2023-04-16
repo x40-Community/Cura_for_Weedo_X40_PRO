@@ -10,8 +10,9 @@
     <version>1</version>
     <GUID>3bcc9ef3-e2b4-45a6-869b-15b545112b0d</GUID>
     <color_code>#226442</color_code>
-    <description>Extrudr BioFusion is a new generation of special bio-based materials designed for designers and makers. The filament is very easy to work with, resulting in exceptional results even with little experience. The printed parts have an intense, metallic shine. BioFusion has a temperature resistance of up to 75 ° C.</description>
-    <adhesion_info>BioFusion has poor layer and bed adhesion. It is recommended to print with a raft and to set the heating bed to 80 ° C for the first layer. </adhesion_info>
+    <description>Extrudr BioFusion is a new generation of special bio-based materials designed for designers and makers. The filament is very easy to work with, resulting in exceptional results even with little experience. The printed parts have an intense, metallic shine. BioFusion has a temperature resistance of up to 75°C.</description>
+    <adhesion_info>BioFusion has poor layer and bed adhesion. It is recommended to print with a raft and to set the heating bed to 80°C for the first layer.</adhesion_info>
+    <instruction_link>https://www.extrudr.com/en/material/biofusion/</instruction_link>
   </metadata>
   <properties>
     <density>1.25</density>
@@ -39,7 +40,6 @@
        <setting key="heated bed temperature">70</setting>
        <setting key="retraction speed">35</setting>
        <setting key="retraction amount">6.5</setting>
-       <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

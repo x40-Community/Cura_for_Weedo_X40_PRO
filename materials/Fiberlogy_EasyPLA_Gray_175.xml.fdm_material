@@ -12,6 +12,7 @@
     <color_code>#dcdcda</color_code>
     <description>Easy PLA is a material that allows you to achieve prints of a very high quality and avoid complications during the printing process. No matter what level of experience in 3D printing you have, printing with Easy PLA is sure to encourage you to pursue even more ambitious and complex projects. All this thanks to the easiness of printing.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/</instruction_link>
   </metadata>
   <properties>
     <density>1.24</density>

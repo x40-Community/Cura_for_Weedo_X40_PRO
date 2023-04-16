@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!-- Author: H. Klemm - database@x40-community.org -->
 <fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
   <metadata>
     <name>
@@ -12,6 +13,7 @@
     <color_code>#000000</color_code>
     <description>PLA/PHA from ColorFabb is a bioplastic blend. A less brittle and stunning PLA filament.</description>
     <adhesion_info />
+    <instruction_link>https://colorfabb.com/filaments/materials/pla-filaments/pla-pha</instruction_link>
   </metadata>
   <properties>
     <density>1.24</density>
@@ -33,8 +35,6 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Weedo" product="weedo_x40_pro" />
-      <cura:setting key="material_flow">88.11</cura:setting> 
-      <cura:setting key="material_linear_advance_factor">0.2</cura:setting>
     </machine>
   </settings>
 </fdmmaterial>

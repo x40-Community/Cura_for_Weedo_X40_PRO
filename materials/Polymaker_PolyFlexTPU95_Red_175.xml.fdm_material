@@ -12,6 +12,7 @@
     <color_code>#fa2b29</color_code>
     <description>PolyFlex™ is a family of high-quality flexible materials. It provides the perfect solution for applications where high flexibility and durability are required. PolyFlex™ TPU95 is a thermoplastic polyurethane (TPU) based filament specifically engineered to work on most desktop 3D printers. It has a shore hardness of 95A and can stretch more than 3 times its original length.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://eu.polymaker.com/product/polyflex-tpu95/</instruction_link>
   </metadata>
   <properties>
     <density>1.16</density>

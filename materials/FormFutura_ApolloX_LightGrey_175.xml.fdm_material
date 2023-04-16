@@ -12,6 +12,7 @@
     <color_code>#e5e6e1</color_code>
     <description>ApolloX is a professional high-performance engineering filament, which is based on an uniquely industrial-grade modified ASA (Acrylonitrile Styrene Acrylate) compound. ApolloX has been modified to have great thermal stability, improved filament flowing behavior, zero-warping and flawless first- and interlayer adhesion allowing you to 3D print objects with an almost injection-molded precision. ApolloX is UV and weather resistant and by that ensuring great color stability – combined with high strength and heat resistant properties – which makes ApolloX a perfect engineering filament for outdoor and automotive applications.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://www.formfutura.com/shop/product/apollox-2779</instruction_link>
   </metadata>
   <properties>
     <diameter>1.75</diameter>
@@ -39,9 +40,6 @@
            <setting key="heated bed temperature">80.0</setting>
            <setting key="retraction speed">30</setting>
            <setting key="retraction amount">5</setting>
-           <cura:setting key="material_flow">100.79</cura:setting>
-           <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting>
-           <cura:setting key="material_shrinkage_percentage_z">100.5</cura:setting> 
        </machine>
   </settings>
 </fdmmaterial>

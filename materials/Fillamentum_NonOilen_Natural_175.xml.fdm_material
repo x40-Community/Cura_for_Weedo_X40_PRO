@@ -12,6 +12,7 @@
     <color_code>#edeae4</color_code>
     <description>NonOlien consists of 100% bio-based polymers and is completely biodegradable. It can be recycled many times before it loses its properties. Printing NonOlien is as easy as standard PLA, but it composts faster. The filament is characterised by its strength and hardness, is very durable and temperature-resistant up to 110 ° C. It can also be used for food contact applications and is easy to clean in the dishwasher.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fillamentum.com/collections/nonoilen-filament/</instruction_link>
   </metadata>
   <properties>
     <density>1.20</density>
@@ -39,8 +40,6 @@
        <setting key="print temperature">180.0</setting>
        <setting key="retraction speed">40</setting>
        <setting key="retraction amount">5.5</setting>       
-       <cura:setting key="material_shrinkage_percentage_xy">100.46</cura:setting>
-       <cura:setting key="material_shrinkage_percentage_z">100.46</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

@@ -10,8 +10,9 @@
     <version>1</version>
     <GUID>9e8f586a-2b0b-4155-a746-93d1ddc13612</GUID>
     <color_code>#efebcc</color_code>
-    <description>Nozzel: 205-235°C, Bed 0-60°C. The 3DJAKE nicePVA filament is a cold water soluble support material for 3D printing. The material is a modified PVA, which is thermally more stable than conventional PVA. It also adheres well to PLA, ABS and PET-G, which significantly expands the field of application. This PVA-based filament is non-toxic and biodegradable once it has been dissolved in water.</description>
+    <description>The 3DJAKE nicePVA filament is a cold water soluble support material for 3D printing. The material is a modified PVA, which is thermally more stable than conventional PVA. It also adheres well to PLA, ABS and PET-G, which significantly expands the field of application. This PVA-based filament is non-toxic and biodegradable once it has been dissolved in water.</description>
     <adhesion_info> </adhesion_info>
+    <instruction_link>https://www.3djake.com/3djake/nicepva-natural</instruction_link>
   </metadata>
   <properties>
     <density>1.22</density>
@@ -21,7 +22,7 @@
   <settings>
     <setting key="print temperature">220.0</setting>
     <setting key="heated bed temperature">60</setting>
-    <setting key="standby temperature">150</setting>
+    <setting key="standby temperature">120</setting>
     <setting key="print cooling">90.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>

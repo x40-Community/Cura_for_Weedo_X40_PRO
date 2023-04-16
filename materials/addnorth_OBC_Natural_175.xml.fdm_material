@@ -12,6 +12,7 @@
     <color_code>#f2f2f2</color_code>
     <description>Add North’s OBC Polyethylene is an engineering grade filament that lets you print lightweight, chemical resistant and extremely durable parts. One popular use case is various sorts of containers with living hinges, thanks to the materials excellent fatigue resistance. OBC Polyethylene is a suitable filament for many applications that requires extreme durability and layer adhesion. The printed surface is very smooth to the touch and provides good looking parts.</description>
     <adhesion_info>OBC Polyethylene material does not adhere to almost any surface without an adhesive. An adhesive such as Magigoo for PP should therefore always be used.</adhesion_info>
+    <instruction_link>https://addnorth.com/knowledge/articles/obc-polyethylene-cura-cheat-sheet</instruction_link>
   </metadata>
   <properties>
     <density>0.905</density>

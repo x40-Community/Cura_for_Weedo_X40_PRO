@@ -12,6 +12,7 @@
     <color_code>#ff0000</color_code>
     <description>Nozzel 220-245°C, Bed 50-70°C, Cooling 75%-100%, Impact PLA offers properties that are similar or better than those of ABS filaments while keeping the ease and security of the printing process typical of traditional PLA. This technical filament ensures increased resistance to cracking and breaking due to its high impact strength and a higher resistance to high temperatures. With these properties, Impact PLA is ideal for creating demanding prints working in extreme conditions while maintaining the highest level of attention to detail.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/impact-pla/</instruction_link>
   </metadata>
   <properties>
     <density>1.22</density>

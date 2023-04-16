@@ -12,6 +12,7 @@
     <color_code>#f8f9fb</color_code>
     <description>Durabio is a bio-based polycarbonate resin developed as a glass substitute by Mitsubishi Chemical. Already adopted in the automotive and mobile phone industries for items such as touch screen, console and dashboard trims and exterior radiator grilles. Durabio has excellent durability with high heat, scratch and abrasion resistance and is made to high Japanese quality control as standard.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://www.verbatim-europe.co.uk/en/cat/verbatim-durabio-filament/</instruction_link>
   </metadata>
   <properties>
     <diameter>1.75</diameter>
@@ -39,7 +40,6 @@
            <setting key="heated bed temperature">80.0</setting>
            <setting key="retraction speed">30</setting>
            <setting key="retraction amount">5</setting>
-           <cura:setting key="material_flow">90.14</cura:setting>
        </machine>
   </settings>
 </fdmmaterial>

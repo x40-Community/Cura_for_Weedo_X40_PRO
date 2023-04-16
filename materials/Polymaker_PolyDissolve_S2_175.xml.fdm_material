@@ -12,6 +12,7 @@
         <color_code>#f8f9fb</color_code>
         <description>Nozzel 230-250°C, Bed Temperature 90-110°C, Speed 30-40mm/s Cooling 100%. PolyDissolve™ is a family of dissolvable support filaments. PolyDissolve™ S2 is a dissolvable support for PC, ABS and ASA based filaments from the Polymaker portfolio. It is specifically engineered to have a perfect interface with these materials while also displaying good solubility.</description>
         <adhesion_info>Work on most surfaces designed for high temperature materials.</adhesion_info>
+        <instruction_link>https://eu.polymaker.com/product/polydissolve-s2/</instruction_link>
     </metadata>
     <properties>
         <diameter>1.75</diameter>

@@ -12,6 +12,7 @@
         <color_code>#f94c56</color_code>
         <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
         <adhesion_info></adhesion_info>
+        <instruction_link>https://www.material4print.de/filament/pla/</instruction_link>
     </metadata>
     <properties>
         <diameter>1.75</diameter>
@@ -30,13 +31,13 @@
         <setting key="retraction speed">28.0</setting>
         <machine>
            <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
-           <setting key="print temperature">208.0</setting>
+           <setting key="print temperature">215.0</setting>
            <setting key="retraction speed">40</setting>
            <setting key="retraction amount">5.5</setting>
        </machine>
        <machine>
            <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
-           <setting key="print temperature">208.0</setting>
+           <setting key="print temperature">215.0</setting>
            <setting key="retraction speed">40</setting>
            <setting key="retraction amount">5.5</setting>
        </machine>

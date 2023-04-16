@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>colorFabb</brand>
+      <material>nGen_FLEX</material>
+      <color>Dark Grey</color>
+      <label>Dark Grey nGen_FLEX</label>
+    </name>
+    <version>1</version>
+    <GUID>ce33b006-f3a1-425b-b50e-8426a6fbfc1a</GUID>
+    <color_code>#687a7b</color_code>
+    <description>nGen_FLEX is best described as a semi-flexible filament with a shore hardness of 95A. It can be fed through a Bowden tube and printed at regular speeds. It is temperature resistant to about 125C. This means that printed objects can be steam sterlilized at 121C. For a functional part that needs to remain hidden, or unnoticed. nGen_FLEX Black is that filament for you.</description>
+    <adhesion_info />
+    <instruction_link>https://colorfabb.com/de/filaments/materials/co-polyester-filaments/ngen-flex</instruction_link>
+  </metadata>
+  <properties>
+    <density>1.13</density>
+    <diameter>1.75</diameter>
+    <weight>540</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">250</setting>
+    <setting key="heated bed temperature">80</setting>
+    <setting key="print cooling">25</setting>
+    <setting key="standby temperature">100</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="retraction speed">30</setting>
+    <setting key="retraction amount">5.5</setting>
+    <machine>
+      <machine_identifier manufacturer="Weedo" product="weedo_x40_pro" />
+      <setting key="print temperature">255.0</setting>
+    </machine>
+  </settings>
+</fdmmaterial>

@@ -3,15 +3,16 @@
   <metadata>
     <name>
       <brand>3DJAKE</brand>
-      <material>PLA</material>
+      <material>ecoPLA</material>
       <color>Yellow RAL 1023</color>
       <label>Yellow ecoPLA</label>
     </name>
     <version>1</version>
     <GUID>210e5d2a-8f7b-4e9c-8878-75eea75ea419</GUID>
     <color_code>#f8d93c</color_code>
-    <description>Nozzel 195-215°C, Bed 0-60°C. Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
+    <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
     <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
+    <instruction_link>https://www.3djake.com/3djake/ecopla-yellow</instruction_link>
   </metadata>
   <properties>
     <density>1.24</density>
@@ -20,7 +21,7 @@
   </properties>
   <settings>
     <setting key="print temperature">205.0</setting>
-    <setting key="heated bed temperature">50</setting>
+    <setting key="heated bed temperature">60</setting>
     <setting key="standby temperature">175</setting>
     <setting key="print cooling">100.0</setting>
     <setting key="adhesion tendency">0</setting>
@@ -28,9 +29,5 @@
     <setting key="build volume temperature">28</setting>
     <setting key="retraction amount">4.5</setting>
     <setting key="retraction speed">40.0</setting>  
-    <machine>
-    <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
-        <cura:setting key="material_flow">89.84</cura:setting>
-    </machine>
   </settings>
 </fdmmaterial>

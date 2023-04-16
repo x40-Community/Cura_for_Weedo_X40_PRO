@@ -12,6 +12,7 @@
     <color_code>#3bab4a</color_code>
     <description>PolyMax™ is a family of advanced 3D printing filaments produced with Polymaker’s Nano-reinforcement technology, to deliver exceptional mechanical properties and printing quality. PolyMax™ PLA is an incredibly easy-to-print filament with improved mechanical properties, making it an excellent alternative to ABS. Manufacturer recommendation: Nozzle 190-230°C, Heated bed 25-60°C, Cooling 100%, Speed 40-60mm/s, Support Materials: PolyDissolve™ S1</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://polymaker.com/product/polymax-pla/</instruction_link>
   </metadata>
   <properties>
     <density>1.17</density>
@@ -39,7 +40,6 @@
        <setting key="print temperature">215.0</setting>
        <setting key="retraction speed">40</setting>
        <setting key="retraction amount">5.5</setting>
-       <cura:setting key="material_flow">100.30</cura:setting>
     </machine>
   </settings>
 </fdmmaterial>

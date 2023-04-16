@@ -12,6 +12,7 @@
     <color_code>#888a74</color_code>
     <description>Adura™ is a high-performance Nylon filament made from co-polyamide with high printability, low shrinkage and extreme toughness. This material is excellent for high-strength, functional 3D-printed parts. It has superior strength and physical attributes when compared to consumer-grade materials, which makes it the preferred choice for many industrial applications. Adura™'s very low shrinkage allows for printing with very tight tolerances and accuracy. The excellent layer bonding, medium flexibility and good chemical and heat resistance makes it a very useful material for demanding applications.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://addnorth.com/knowledge/articles/adura-cura-cheat-sheet</instruction_link>
   </metadata>
   <properties>
     <density>1.1</density>
@@ -28,11 +29,5 @@
     <setting key="build volume temperature">28</setting>
     <setting key="retraction speed">35</setting>
     <setting key="retraction amount">6</setting>
-    <machine>
-    <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
-       <cura:setting key="material_flow">101.25</cura:setting>    
-       <cura:setting key="material_shrinkage_percentage_xy">100.9</cura:setting>
-       <cura:setting key="material_shrinkage_percentage_z">100.9</cura:setting> 
-    </machine>
   </settings>
 </fdmmaterial>

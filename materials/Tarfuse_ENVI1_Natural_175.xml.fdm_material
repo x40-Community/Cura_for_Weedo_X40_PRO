@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Tarfuse</brand>
+      <material>ENVI 1</material>
+      <color>Natural</color>
+      <label>Natural ENVI 1</label>
+    </name>
+    <version>1</version>
+    <GUID>adb43090-12c7-4e39-9bf2-bdb7ed55d4db</GUID>
+    <color_code>#edeae4</color_code>
+    <description>Tarfuse envi 1 is obtained from renewable raw materials and is designed to be fully biodegradable, which means that it decomposes in the environment in the presence of microorganisms. After the biodegradation process is complete, only natural and harmless substances such as water, CO2 and organic matter remain. In the case of pure PLA, the biodegradation process is relatively fast in industrial composting facilities, much slower in less biologically active environments, i. H. in home compost bins. Tarfuseâ envi 1 biodegrades faster than pure PLA thanks to its structure. Tarfuseâ envi 1 is formulated with the environment in mind, as less CO2 is released into the atmosphere during degradation. Tarfuse envi 1 is characterized by excellent printability and detail appearance thanks to very good interlayer adhesion and low linear shrinkage. The Tarfuse envi 1 filament is intended for printing display models and advertising details.</description>
+    <adhesion_info></adhesion_info>
+    <instruction_link>https://sklep.grupaazoty.com/materialy-do-druku-3d/152-filament-tarfuse-envi-.html</instruction_link>
+  </metadata>
+  <properties>
+    <density>1.30</density>
+    <diameter>1.75</diameter>
+    <weight>1000</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">215</setting>
+    <setting key="heated bed temperature">50</setting>
+    <setting key="standby temperature">100</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">30</setting>
+    <setting key="retraction speed">30</setting>
+    <setting key="retraction amount">5</setting>
+  </settings>
+</fdmmaterial>

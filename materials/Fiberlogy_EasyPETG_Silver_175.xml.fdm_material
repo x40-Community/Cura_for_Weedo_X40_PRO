@@ -12,6 +12,7 @@
     <color_code>#afafaf</color_code>
     <description>The Easy PETG filament is an interesting proposition for those looking for a combination of the ease of 3D printing with functional and aesthetic values. PET enriched with the addition of glycol ensures high resistance to mechanical, chemical and atmospheric factors, and its high amorphy combined with a very good flow allows obtaining prints with greater transparency and better layer bonding.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/easy-pet-g/</instruction_link>
   </metadata>
   <properties>
     <density>1.29</density>
@@ -37,8 +38,6 @@
        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
        <setting key="retraction speed">40</setting>
        <setting key="retraction amount">5.5</setting>
-       <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting>
-       <cura:setting key="material_shrinkage_percentage_z">100.5</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

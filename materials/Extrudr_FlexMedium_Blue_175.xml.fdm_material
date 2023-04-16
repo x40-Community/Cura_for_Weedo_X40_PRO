@@ -12,6 +12,7 @@
     <color_code>#193058</color_code>
     <description>TPU Flex Medium was developed for FDM and FFF processes. With an elasticity of 470%, high material quality, high chemical resistance and temperature resistance up to 115 °C, the material is suitable for a wide range of industrial applications.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://www.extrudr.com/en/material/flex-medium/</instruction_link>
   </metadata>
   <properties>
     <density>1.19</density>

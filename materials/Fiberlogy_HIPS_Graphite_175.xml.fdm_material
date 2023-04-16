@@ -12,6 +12,7 @@
     <color_code>#484b52</color_code>
     <description>HIPS filament is a base in both meanings of this word: its properties allow it to be used as a basic filament and also as a support for other materials. Using it in printing will give you a light and good-looking print with a matt surface. You can polish it and even coat it with acrylic paint. This allows each model or miniature to look very tasteful. You can also decide to use it as a supporting material for prints that have large overhangs or non-standard shapes. You just need to immerse the print in D-limonene after this. It will dissolve the HIPS, leaving only the proper print.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/filament-hips/</instruction_link>
   </metadata>
   <properties>
     <density>1.04</density>
@@ -43,9 +44,6 @@
        <setting key="print cooling">30</setting>
        <setting key="retraction speed">40</setting>
        <setting key="retraction amount">5.5</setting>
-       <cura:setting key="material_linear_advance_factor">0.3</cura:setting> 
-       <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting>
-       <cura:setting key="material_shrinkage_percentage_z">100.5</cura:setting> 
     </machine>
     </settings>
 </fdmmaterial>

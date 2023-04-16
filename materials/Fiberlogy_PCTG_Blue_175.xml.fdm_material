@@ -12,6 +12,7 @@
     <color_code>#0f5c66</color_code>
     <description>PCTG belongs to the same family of polyesters as the increasingly popular PET-G. Compared to its more popular counterpart, PCTG offers increased impact strength, temperature resistance and clarity, making it an excellent alternative to PET-G. This filament does not require a heated chamber, which makes it ideal for use with home printers. It ensures high dimensional stability, while low shrinkage prevents the model from cracking. This makes it an easy-to-print material, even for people without a lot of experience in 3D printing. Manufacturer recommendation: Nozzle 250-270°C, Heated bed 90-110°C, Cooling 25-50%</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/pctg/</instruction_link>
   </metadata>
   <properties>
     <density>1.23</density>
@@ -41,7 +42,6 @@
        <setting key="heated bed temperature">70</setting>
        <setting key="retraction speed">40</setting>
        <setting key="retraction amount">5.5</setting>
-       <cura:setting key="material_flow">99.39</cura:setting>
     </machine>
   </settings>
 </fdmmaterial>

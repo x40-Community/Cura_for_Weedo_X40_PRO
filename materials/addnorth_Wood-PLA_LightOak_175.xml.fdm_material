@@ -12,6 +12,7 @@
     <color_code>#bd9c7d</color_code>
     <description>Add:North PLA Wood is a blend that contains 40% wood fibres and 60% biobased PLA. The finished print smells, feels and looks like wood, and is very easy to post-process with a fine sandpaper for excellent results. You might get the feeling that you enter a wood workshop instead of your printer room while printing this material. Made in Sweden, it is one of the most sustainable filaments out there.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://addnorth.com/shop/Filaments%20by%20material/PLA/PLA%20Wood</instruction_link>
   </metadata>
   <properties>
     <density>1.15</density>
@@ -35,7 +36,6 @@
        <machine>
        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
        <setting key="print temperature">220.0</setting>
-       <cura:setting key="material_flow">92.38.25</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

@@ -13,6 +13,7 @@
     <description>PolyTerra™️ PLA is a bioplastic based 3D printing filament designed from the ground up to create the next generation of PLA, providing ease of use, printing quality, speed and reliability. It is a sustainable product sourced naturally and for every spool produced a tree is planted to give back to the earth. Manufacturer recommendation: Nozzle 190-230°C, Heated bed 25-60°C, Cooling 100%, Speed 30-70mm/s, Support Materials:
 PolyDissolve™ S1</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://polymaker.com/polyterra-pla-info/</instruction_link>
   </metadata>
   <properties>
     <density>1.31</density>
@@ -42,7 +43,6 @@ PolyDissolve™ S1</description>
        <setting key="heated bed temperature">50</setting>
        <setting key="retraction speed">40</setting>
        <setting key="retraction amount">5.5</setting>
-       <cura:setting key="material_flow">96.00</cura:setting>
     </machine>
   </settings>
 </fdmmaterial>

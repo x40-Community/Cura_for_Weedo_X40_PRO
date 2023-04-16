@@ -3,15 +3,16 @@
   <metadata>
     <name>
       <brand>3DJAKE</brand>
-      <material>PLA</material>
+      <material>ecoPLA Glitter</material>
       <color>Glitter gold</color>
       <label>Glitter gold ecoPLA</label>
     </name>
     <version>1</version>
     <GUID>de775648-a422-48a8-83df-e851d0fde76c</GUID>
     <color_code>#897c5c</color_code>
-    <description>Nozzel 195-215°C, Bed 0-60°C. Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
+    <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
     <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
+    <instruction_link>https://www.3djake.com/3djake/ecopla-glitter-gold</instruction_link>
   </metadata>
   <properties>
     <density>1.24</density>
@@ -28,9 +29,5 @@
     <setting key="build volume temperature">28</setting>
     <setting key="retraction amount">4.5</setting>
     <setting key="retraction speed">40.0</setting> 
-    <machine>
-    <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
-        <cura:setting key="material_flow">89.84</cura:setting>
-    </machine>
   </settings>
 </fdmmaterial>

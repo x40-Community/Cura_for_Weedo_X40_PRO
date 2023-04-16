@@ -12,6 +12,7 @@
     <color_code>#ebe0d4</color_code>
     <description>AllPHA is 100% biobased and 100% biodegradable in any biotope, without leaving microplastics. The ColorFabb allPHA 3D printing filament (pronounced as Alpha) is the ultimate bioplastic. PolyHydroxyAlkanoates abbreviated PHA, is created by a naturally occurring process called fermentation. By feeding bacteria natural sugars and oils, the bacteria create “fat” cells (the PHA). The best thing about PHA? Micro-organisms can eat it again at the end of the products’ lifetime.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://colorfabb.com/filaments/materials/pha-filaments/allpha</instruction_link>
   </metadata>
   <properties>
     <density>1.24</density>
@@ -35,7 +36,6 @@
        <machine>
        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
        <setting key="print temperature">195.0</setting>
-       <cura:setting key="material_linear_advance_factor">0.25</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

@@ -12,6 +12,7 @@
     <color_code>#ffffff</color_code>
     <description>Fiberlogy's BVOH filament is a butene-diol-vinyl alcohol copolymer. With it, perfect prototypes, complex structures and moving mechanisms can be printed. It is particularly useful when conventional support materials are difficult to remove or are insufficient to achieve a satisfactory final print result. With BVOH, printing highly complex 3D objects is extremely easy. Support structures made with BVOH filaments are very easy to remove. After you've printed a 3D model, just put it in warm water. The carrier filament then dissolves completely. As a result, the actual model is of significantly better quality than supports that have to be broken out. The BVOH filament can be used with printers with a twin extruder. It is characterized by high adhesion to various materials. It can be combined with common materials such as PLA, ABS, PET-G, ASA, nylon, elastic filaments (e.g. TPU), etc. The filament should be stored in a dry place, e.g. in a sealed bag, to avoid wetting of the material and the resulting deterioration in its properties.</description>
     <adhesion_info>Water soluble material</adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/bvoh/</instruction_link>
   </metadata>
   <properties>
     <density>1.14</density>

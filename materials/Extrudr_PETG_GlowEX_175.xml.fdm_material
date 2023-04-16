@@ -12,6 +12,7 @@
     <color_code>#00b51a</color_code>
     <description>PETG has been optimized for FDM and FFF processes, and stands for maximum functionality, even under high mechanical stress. With its excellent printing properties, this material is particularly suitable for high-performance applications. High chemical resistance, Low shrinking, FDA approved, 100% recyclable</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://www.extrudr.com/en/material/petg/</instruction_link>
   </metadata>
   <properties>
     <density>1.29</density>

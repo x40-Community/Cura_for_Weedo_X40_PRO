@@ -12,6 +12,7 @@
         <color_code>#333333</color_code>
         <description>PMMA is a thermoplastic Material, also known as plexiglass or acrylglass. PMMA is knowen for good transparency and has a extremely high rigidity. The Material is weatherproof and not so easy to print like PLA.</description>
         <adhesion_info>The material tends to warp. It is therefore recommended to use a brim with additional bonding agent such as Dimafix.</adhesion_info>
+        <instruction_link>https://www.material4print.de/filament/pmma/</instruction_link>
     </metadata>
     <properties>
         <diameter>1.75</diameter>
@@ -41,8 +42,6 @@
            <setting key="heated bed temperature">70.0</setting>
            <setting key="retraction speed">40</setting>
            <setting key="retraction amount">5.5</setting>
-           <cura:setting key="material_flow">87.0</cura:setting>
-           <cura:setting key="material_linear_advance_factor">0.6</cura:setting>
        </machine>
     </settings>
 </fdmmaterial>

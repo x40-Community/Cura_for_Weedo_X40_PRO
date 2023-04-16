@@ -12,6 +12,7 @@
     <color_code>#b9bbba</color_code>
     <description>Polyvinyl butyral (PVB) is a design material suitable for easy smoothing with isopropyl alcohol (IPA). Print settings are similar to PLA, mechanical properties are slightly better (similar to CPE or PETG). Thanks to the IPA smoothing it’s optimal for printing visual models, such as unconventional vases, jewelry, lampshades, and other design parts. It’s good to tweak print settings, especially layer height, number of perimeters, and infill density.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://prusament.com/materials/prusament-pvb/</instruction_link>
   </metadata>
   <properties>
     <density>1.09</density>

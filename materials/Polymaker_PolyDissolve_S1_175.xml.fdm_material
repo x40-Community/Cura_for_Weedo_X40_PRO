@@ -12,6 +12,7 @@
         <color_code>#f8f9fb</color_code>
         <description>Nozzel 215-225°C, Bed Temperature 25-60°C, Speed 20-40mm/s Cooling 100%. PolyDissolve™ is a family of dissolvable support filaments. PolyDissolve™ S1 is a water dissolvable support for PLA, TPU, PVB and Nylon based filaments from the Polymaker. It is specifically engineered to have a perfect interface with these materials while also displaying good solubility.</description>
         <adhesion_info></adhesion_info>
+        <instruction_link>https://eu.polymaker.com/product/polydissolve-s1/</instruction_link>
     </metadata>
     <properties>
         <diameter>1.75</diameter>

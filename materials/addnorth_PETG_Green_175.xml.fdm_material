@@ -12,6 +12,7 @@
     <color_code>#2dac33</color_code>
     <description>Add Norths PETG prints easily, is odorless, has low warping and a high impact resistance. PETG has grown to be one of the most popular materials for many users. It has in many ways replaced ABS as the primary material for technical applications mainly because of its chemical resistance. PETG is highly suitable for functional parts thanks to a working temperature of up to 75°C, together with high wear resistance, excellent UV-properties and chemical resistance.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://addnorth.com/knowledge/articles/petg-cura-cheat-sheet</instruction_link>
   </metadata>
   <properties>
     <density>1.27</density>

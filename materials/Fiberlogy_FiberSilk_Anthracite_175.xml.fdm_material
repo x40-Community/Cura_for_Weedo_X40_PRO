@@ -12,6 +12,7 @@
     <color_code>#363d43</color_code>
     <description>The FIBERSILK METALLIC filament is the result of the joined and lasting effort of the Fiberlogy team. Their goal was to create a high-quality product combining a unique look, high durability and ease of printing. Fiberlogy’s FIBERSILK METALLIC offers a unique elegance of the printouts created with it. They are characterized by a silky metallic shine that brings out every smallest detail of a 3D model with all its bends and curves. Its aesthetic value is further enhanced by a rich palette of available colours. Fiberlogy have come up with a wide selection of vibrant colours for every user to find something that suits them just fine. The metallic finish makes it easy to hide the boundaries between layers making the entire print more uniform and expressive.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/fibersilk-metallic/</instruction_link>
   </metadata>
   <properties>
     <density>1.22</density>
@@ -39,9 +40,6 @@
         <setting key="print temperature">215</setting>
        <setting key="retraction speed">30</setting>
        <setting key="retraction amount">6</setting>
-       <cura:setting key="material_flow">95.44</cura:setting>
-       <cura:setting key="material_shrinkage_percentage_xy">100.6</cura:setting>
-       <cura:setting key="material_shrinkage_percentage_z">100.6</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

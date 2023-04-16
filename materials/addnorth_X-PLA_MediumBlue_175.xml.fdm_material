@@ -12,6 +12,7 @@
     <color_code>#337ebc</color_code>
     <description>Add:North X-PLA is a unique PLA-mix developed by Add north. It’s produced using 100% biodegradable material and has a high impact resistance, zero brittleness and an unbeatable surface finish. X-PLA was first developed to meet the high requirements from architects, who often print thin walls but at the same time want a resistive and even surface finish. X-PLA is just as easy to print with as regular PLA and has a solid and robust feeling which is perfect for technical applications but also prototypes and figures. X-PLA can be printed at low temperatures (from 180 °C) and will get a beautiful matte finish that is not possible using regular PLA.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://addnorth.com/knowledge/articles/x-pla-cura-cheat-sheet</instruction_link>
   </metadata>
   <properties>
     <density>1.25</density>
@@ -35,7 +36,6 @@
        <machine>
        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
        <setting key="print temperature">205.0</setting>
-       <cura:setting key="material_flow">99.00</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

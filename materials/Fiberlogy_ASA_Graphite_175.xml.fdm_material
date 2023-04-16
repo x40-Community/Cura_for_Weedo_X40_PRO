@@ -12,6 +12,7 @@
     <color_code>#484b52</color_code>
     <description>Thanks to its resistance to UV radiation, high temperatures and humidity, Fiberlogy ASA is the perfect choice for all 3D printing applications that will be exposed to weather conditions. High mechanical and thermal resistance (up to 94°C) and ease of printing make this material a great replacement for ABS, ensuring its popularity in the automotive industry and in the manufacturing of everyday items. ASA (acrylonitrile-styrene-acrylate), due to its clearly lower shrinkage than ABS, does not require a heated chamber to ensure a successful print. Unlike its predecessor, ASA gives off much less annoying odours. Less shrinkage and good adhesion prevent the model from curling and cracking and ensure high stability of the print dimensions. The finished model made with Fiberlogy ASA can be smoothed by exposure to acetone. The material is suitable for sanding and painting. It can also be glued with acetone.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/asa/</instruction_link>
   </metadata>
   <properties>
     <density>1.07</density>
@@ -39,9 +40,6 @@
         <setting key="retraction speed">35</setting>
         <setting key="retraction amount">5.0</setting>
         <setting key="heated bed temperature">80</setting>
-        <cura:setting key="material_flow">90.34</cura:setting>
-        <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting>
-        <cura:setting key="material_shrinkage_percentage_z">100.5</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

@@ -13,6 +13,7 @@
     <description>High impact strength, Excellent flexibility, Almost no warping or shrinkage, Hydrophobic (does not absorb water), Food packaging grade pellets used
 Odour neutral, Main applications: concept modelling for mechanics, medical, food containers, transparent objects.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://www.verbatim-europe.co.uk/en/cat/verbatim-pet-g-filament/</instruction_link>
   </metadata>
   <properties>
     <diameter>1.75</diameter>
@@ -42,8 +43,6 @@ Odour neutral, Main applications: concept modelling for mechanics, medical, food
            <setting key="heated bed temperature">80.0</setting>
            <setting key="retraction speed">30</setting>
            <setting key="retraction amount">5</setting>
-           <cura:setting key="material_shrinkage_percentage_xy">100.5</cura:setting>
-           <cura:setting key="material_shrinkage_percentage_z">100.0</cura:setting> 
        </machine>
   </settings>
 </fdmmaterial>

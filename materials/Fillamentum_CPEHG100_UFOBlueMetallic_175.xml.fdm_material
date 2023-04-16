@@ -12,6 +12,7 @@
     <color_code>#91a6cb</color_code>
     <description>Fillamentum CPE HG100 filament was engineered for high-technical properties, great quality and easy printing with final properties that will dwarf all the PET-based materials. An additional monomer improves all the properties when compared with PETG filaments.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fillamentum.com/collections/cpe-filament/</instruction_link>
   </metadata>
   <properties>
     <density>1.25</density>
@@ -41,7 +42,6 @@
        <setting key="heated bed temperature">75</setting>
        <setting key="retraction speed">40</setting>
        <setting key="retraction amount">5.5</setting>
-       <cura:setting key="material_flow">93.00</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

@@ -12,6 +12,7 @@
     <color_code>#eee9da</color_code>
     <description>Polypropylene (PP) is one of the most commonly used polymers in industry. Its high flexibility, incredible durability, low weight and resistance to chemicals have meant that it has found countless applications from medicine, through the automotive industry to the packaging industry. Fiberlogy PP filament has tapped the potential of this incredible material and made it possible to use in 3D printing. The impressive tensile strength makes polypropylene perfect for producing elements that require durability while maintaining flexibility such as lockable containers, handles, etc. It is successfully used in both advanced engineering projects and at home. Polypropylene is recyclable, which is why printouts and printer scrap can be segregated with other garbage and recycled, which perfectly reflects the spirit of the idea of “zero-waste”.</description>
     <adhesion_info>PP material does not adhere to almost any surface without an adhesive. An adhesive such as Magigoo for PP should therefore always be used.</adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/pp/</instruction_link>
   </metadata>
   <properties>
     <density>1.04</density>

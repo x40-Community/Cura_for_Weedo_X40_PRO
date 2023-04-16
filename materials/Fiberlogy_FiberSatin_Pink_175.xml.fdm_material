@@ -12,6 +12,7 @@
     <color_code>#e5047c</color_code>
     <description>Fiberlogy FiberSatin makes models look as if they were not a product of a 3D printer. High layer bondability and the slightly glossy, matte finish conceal the drawbacks of additive printing technology, such as the visible boundaries between individual layers. FiberSatin can be an alternative to silk filaments for people who look around for an interesting finish in a rather matte and refined version. In addition to its unique visual properties, FiberSatin is also distinguished by its unique texture. To the touch, it resembles filaments with the addition of carbon fiber, thanks to which it diffuses the light, giving off a subtle shine.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://fiberlogy.com/en/fiberlogy-filaments/fibersatin/</instruction_link>
   </metadata>
   <properties>
     <density>1.21</density>
@@ -35,9 +36,6 @@
      <machine>
        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
         <setting key="print temperature">210</setting>
-        <cura:setting key="material_flow">95.15</cura:setting>
-        <cura:setting key="material_shrinkage_percentage_xy">100.6</cura:setting>
-        <cura:setting key="material_shrinkage_percentage_z">100.6</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>

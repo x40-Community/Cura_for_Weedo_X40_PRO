@@ -12,6 +12,7 @@
         <color_code>#666a6b</color_code>
         <description>The Material4Print PETG is characterized by high toughness, good impact resistance, resistant to many chemicals, easy to process, hardly shrinks when cooling, no unpleasant odor development.</description>
         <adhesion_info></adhesion_info>
+        <instruction_link>https://www.material4print.de/filament/petg/</instruction_link>
     </metadata>
     <properties>
         <diameter>1.75</diameter>
@@ -39,7 +40,6 @@
            <setting key="heated bed temperature">60.0</setting>
            <setting key="retraction speed">40</setting>
            <setting key="retraction amount">5.5</setting>
-           <cura:setting key="material_flow">94.00</cura:setting>
        </machine>
     </settings>
 </fdmmaterial>

@@ -12,6 +12,7 @@
     <color_code>#f1005d</color_code>
     <description>PLA/PHA from ColorFabb is a bioplastic blend. A less brittle and stunning PLA filament.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://colorfabb.com/filaments/materials/pla-filaments/pla-pha</instruction_link>
   </metadata>
   <properties>
     <density>1.24</density>
@@ -35,8 +36,6 @@
        <machine>
        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
        <setting key="print temperature">210.0</setting>
-       <cura:setting key="material_flow">88.11</cura:setting> 
-       <cura:setting key="material_linear_advance_factor">0.2</cura:setting>  
     </machine>
   </settings>
 </fdmmaterial>

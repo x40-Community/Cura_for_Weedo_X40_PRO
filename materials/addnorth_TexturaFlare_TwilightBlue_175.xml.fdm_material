@@ -12,6 +12,7 @@
     <color_code>#295b6a</color_code>
     <description>Add North’s Textura™ Flare is a unique matte bio-based PLA with plant fibers and glitter effects that provide stunning looking 3D-prints. The fibers help hide the layer lines who become barely visible. Textura™ Flare was first developed towards architects because of its paper-like and unique surface finish, but any maker could benefit from this highly visual material.</description>
     <adhesion_info></adhesion_info>
+    <instruction_link>https://addnorth.com/knowledge/articles/textura-flare-cura-cheat-sheet</instruction_link>
   </metadata>
   <properties>
     <density>1.25</density>
@@ -35,7 +36,6 @@
        <machine>
        <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
        <setting key="print temperature">205.0</setting>
-       <cura:setting key="material_flow">96.15</cura:setting> 
     </machine>
   </settings>
 </fdmmaterial>
