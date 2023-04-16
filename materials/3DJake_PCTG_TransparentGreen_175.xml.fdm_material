@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>3DJAKE</brand>
+      <material>PCTG</material>
+      <color>Transparent green</color>
+      <label>Transparent green PCTG</label>
+    </name>
+    <version>1</version>
+    <GUID>05bfb5a2-df76-4fd7-a566-67851fa67c5a</GUID>
+    <color_code>#39ca53</color_code>
+    <description>In the realm of filaments, PETG is one of the most popular and widely used filaments. In contrast to the generally popular PETG, PCTG has better properties: They stand out due to their higher toughness, impact resistance and clarity, which makes them an excellent alternative to PETG filaments. The PCTG from 3DJake is a first-class filament, which is also characterised by high chemical resistance, a wide printing temperature range and long durability. The PCTG is easy to process, its texture stronger, harder and clearer. The filament contains no bisphenol derivatives (BPA-free) or phthalate-based plasticisers, making it even suitable for food contact.</description>
+    <adhesion_info></adhesion_info>
+    <instruction_link>https://www.3djake.uk/3djake/3djake-pctg-filament-in-different-colours</instruction_link>
+  </metadata>
+  <properties>
+    <density>1.23</density>
+    <diameter>1.75</diameter>
+    <weight>750</weight>
+  </properties>
+  <settings>
+    <setting key="print temperature">260</setting>
+    <setting key="heated bed temperature">100</setting>
+    <setting key="standby temperature">200</setting>
+    <setting key="print cooling">30</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="build volume temperature">50</setting>
+    <setting key="retraction speed">35</setting>
+    <setting key="retraction amount">5.0</setting>
+    <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40"/>
+       <setting key="print temperature">250.0</setting>
+       <setting key="heated bed temperature">70</setting>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
+     <machine>
+       <machine_identifier manufacturer="Weedo" product="Weedo X40 PRO"/>
+       <setting key="print temperature">250.0</setting>
+       <setting key="heated bed temperature">70</setting>
+       <setting key="retraction speed">40</setting>
+       <setting key="retraction amount">5.5</setting>
+    </machine>
+  </settings>
+</fdmmaterial>
