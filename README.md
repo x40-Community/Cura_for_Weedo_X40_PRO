@@ -8,7 +8,7 @@ The X40 PRO system consists of:
 - [X40 PRO Coolingsystem](https://github.com/x40-Community/X40_PRO-Community_Coolingsystem)
 - [X40 PRO High Temperature upgrade](http://www.x40-community.org/index.php/firmware/x40-pro-high-temperature) (optional)
 - [X40 PRO Extruder upgrade](http://www.x40-community.org/index.php/firmware/weedo-x40-extruder-upgrade) (optional)
-- X40 PRO Firmware
+- [X40 PRO Firmware](http://www.x40-community.org/index.php/firmware/x40-pro-firmware)
 - X40 PRO Cura configuration
 - [X40 PRO Cura Plugins](http://www.x40-community.org/index.php/cura/cura-plugins/9-cura-workflow/84-cura-plugins-2)
 
