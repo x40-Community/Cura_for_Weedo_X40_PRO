@@ -79,18 +79,17 @@ The configuration files, materials and printing profiles for the Weedo X40 can b
 Now look for the resources directory on your PC from your Cura installation.
 
     Windows
-    Cura 4.X (C:\Program\Ultimaker Cura 4.13\resources)
     Cura 5.X (C:\Program Files\Ultimaker Cura 5.0.0\share\cura\resources)
 
     Linux
     /usr/share/cura/resources
     or
-    ~/.local/share/cura/4.13
+    ~/.local/share/cura/5.3
 
 
 
     MacOS 
-    (In Finder go to the application folder, find Cura 4.13, right click in the application, open show contents, contents, MacOS, resources)
+    (In Finder go to the application folder, find Cura 5.3, right click in the application, open show contents, contents, MacOS, resources)
 
  
 
