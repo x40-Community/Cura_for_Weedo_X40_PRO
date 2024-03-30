@@ -37,6 +37,7 @@ Standard configuration for Weedo X40 PRO
 More Information see http://www.x40-community.org/index.php/cura/cura-configuration
 
 ## Plugins for Cura 5.X
+Only you use the following plugins will the configuration be complete and you can easily use all functions of the printer.
 - https://github.com/x40-Community/Cura_plugin_for_WEEDO_X40_PRO/
 
 ## Help
