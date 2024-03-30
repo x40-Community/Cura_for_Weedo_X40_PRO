@@ -36,6 +36,9 @@ Standard configuration for Weedo X40 PRO
 
 More Information see http://www.x40-community.org/index.php/cura/cura-configuration
 
+## Plugins for Cura 5.X
+- https://github.com/x40-Community/Cura_plugin_for_WEEDO_X40_PRO/
+
 ## Help
 Please note that support is only available for X40 community members. Questions on github will therefore not be answered.
 You can join the X40 community at: http://www.x40-community.org/index.php/members-area
