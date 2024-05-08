@@ -36,6 +36,10 @@ Standard configuration for Weedo X40 PRO
 
 More Information see http://www.x40-community.org/index.php/cura/cura-configuration
 
+## Plugins for Cura 5.X
+Only you use the following plugins will the configuration be complete and you can easily use all functions of the printer.
+- https://github.com/x40-Community/Cura_plugin_for_WEEDO_X40_PRO/
+
 ## Help
 Please note that support is only available for X40 community members. Questions on github will therefore not be answered.
 You can join the X40 community at: http://www.x40-community.org/index.php/members-area
@@ -58,7 +62,7 @@ The Configuration doesn't work together with Weedo Cura!
 
 
 ## Information
-Starting with the version for Cura 5.3, the configuration can be used with all Weedo X40 and Weedo X40 PRO Firmware variants. In the older versions, the configuration is matched to the X40 PRO firmware.
+Starting with the version for Cura 5.3, the configuration can be used with the Weedo X40 Stock Firmware 1.2.5 and all Weedo X40 PRO Firmware variants. In the older versions, the configuration is matched to the X40 PRO firmware. The bugs in the stock firmware are only fixed by useing the X40 PRO firmware.
 
 The Weedo X40 PRO Cura plugin only works with the latest X40 PRO firmware. **The plugin is not part of the configuration and is only available to X40 community members.**
 
