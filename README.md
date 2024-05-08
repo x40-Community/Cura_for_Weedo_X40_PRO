@@ -48,6 +48,7 @@ A Cura crash does not necessarily mean that the configuration is defective. Norm
 - Ultimaker Cura 5.1.0
 - Ultimaker Cura 5.2.0
 - Ultimaker Cura 5.3.0
+- Ultimaker Cura 5.7.1
 
 The Configuration doesn't work together with Weedo Cura! 
 
